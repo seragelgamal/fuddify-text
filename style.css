@@ -1,1 +1,9 @@
 /* Style Sheet */
+body {
+    width: 800px;
+    margin: auto;
+}
+
+input {
+    width: 600px;
+}
